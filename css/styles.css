@@ -1,0 +1,25 @@
+body {
+  background: #fefefe url(../img/absurdidad.png);
+}
+
+.pair img {
+  float: left;
+  margin-right: 1em;
+}
+
+.iconrow .pair {
+  float: left;
+  margin-right: 1em;
+  text-align: center;
+  height: 40px;
+}
+
+.iconrow .pair img {
+  float: none;
+}
+
+footer {
+  padding: 1em 0;
+  margin: 1em 0;
+  border-top: solid 1px #ccc;
+}
